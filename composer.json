@@ -1,0 +1,19 @@
+{
+	"name": "iamnitin/wcurl",
+	"type": "library",
+	"description": "Wrapper around PHP's cURL library",
+	"keywords": ["curl","http","api"],
+	"homepage": "https://github.com/iamnitin/wcurl",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Nitin Nagar",
+			"email": "info@ni3.in",
+			"homepage": "http://ni3.in",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.0.0"
+	}
+}
